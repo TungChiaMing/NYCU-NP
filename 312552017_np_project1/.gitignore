@@ -1,0 +1,7 @@
+# Compiled Object files
+shell/*.o 
+*.o
+
+
+# VSCode
+.vscode/

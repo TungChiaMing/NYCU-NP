@@ -1,0 +1,11 @@
+# Compiled Object files
+server/*.o
+shell/*.o 
+*.o
+
+# Binary
+np_simple
+np_single_proc
+np_multi_proc
+# VSCode
+.vscode/

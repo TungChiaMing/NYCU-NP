@@ -1,0 +1,8 @@
+# Compiled Object files
+*.o
+
+# Binary
+socks_server
+hw4.cgi
+# VSCode
+.vscode/

@@ -1,0 +1,9 @@
+# Compiled Object files
+*.o
+
+# Binary
+http_server
+console.cgi
+cgi_server.exe
+# VSCode
+.vscode/
